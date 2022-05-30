@@ -1,0 +1,12 @@
+opencv_python
+matplotlib
+numpy
+mediapipe
+Flask
+gunicorn
+Pillow
+tensorflow
+scikit-video
+tf_slim
+PyYaml
+flask-ngrok
